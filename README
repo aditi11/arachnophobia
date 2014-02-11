@@ -1,6 +1,16 @@
-ADITI A. MAVALANKAR
-201201049
+
 
 To run, type 'make' on the terminal.
 
 For running type ./2 and you will get the result on the screen.
+
+
+Okay, so this game is about collecting the green and red spiders in their respective baskets and shooting the blue ones.
+But  beware! If any spider reaches the base, it blocks that area and you lose 5 points. Also, there will be high speed coins
+falling towards the base. Shoot those coins for bonus points!!!
+
+In order to move the green basket, type 'g' and use the arrow keys for motion or the mouse. Similarly, use 'r' for the red
+basket and 'b' for the gun. A plus point of the gun is you can rotate it. Any spider collected in the wrong basket or shot 
+if not a blue spider will give u a negative point!
+
+If at any time you want to quit the game, press 'q' or 'Esc'. If a spider lands on your gun, GAME OVER!
