@@ -1,0 +1,41 @@
+Aditi A. Mavalankar
+201201049
+
+|___basic_code1.py
+├── basic_code2.py
+├── dataset
+│   ├── match1
+│   │   ├── odi1_inn1_bat.txt
+│   │   ├── odi1_inn1_bowl.txt
+│   │   ├── odi1_inn2_bat.txt
+│   │   └── odi1_inn2_bowl.txt
+│   ├── match2
+│   │   ├── odi2_inn1_bat.txt
+│   │   ├── odi2_inn1_bowl.txt
+│   │   ├── odi2_inn2_bat.txt
+│   │   └── odi2_inn2_bowl.txt
+│   ├── match3
+│   │   ├── odi3_inn1_bat.txt
+│   │   ├── odi3_inn1_bowl.txt
+│   │   ├── odi3_inn2_bat.txt
+│   │   └── odi3_inn2_bowl.txt
+│   ├── match4
+│   │   ├── odi4_inn1_bat.txt
+│   │   ├── odi4_inn1_bowl.txt
+│   │   ├── odi4_inn2_bat.txt
+│   │   └── odi4_inn2_bowl.txt
+│   ├── match5
+│   │   ├── odi5_inn1_bat.txt
+│   │   ├── odi5_inn1_bowl.txt
+│   │   ├── odi5_inn2_bat.txt
+│   │   └── odi5_inn2_bowl.txt
+│   └── player_profile
+│       ├── indian_players_profile.txt
+│       └── nz_players_profile.txt
+├── make_data_set.py
+├── q1.py
+├── sample_solver.py
+├── temp.py
+├── toss.txt
+└── winners.txt
+
