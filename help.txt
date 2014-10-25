@@ -1,0 +1,3 @@
+In this game, there are 3 types of spiders that the player encounters. Each spider has to be collected in the appropriate basket or shot by the spider, in case of the blue spiders. For any spider, which is not shot or collected appropriately, a point is lost and for appropriate collection, a point is gained. If a spider reaches the base, 5 points are lost and that part of the base is blocked.
+
+At random intervals, coins will be directed towards the base at high speed. Shooting those coins will give an additional 10 points.
