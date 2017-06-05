@@ -27,7 +27,7 @@ To play the game, simply type the following commands in the console:
 
 ```bash
 make
-./2
+./main
 ```  
 
 ## License
