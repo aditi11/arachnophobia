@@ -1,8 +1,8 @@
 CC = g++
 CFLAGS = -Wall
-PROG = 2
+PROG = main
 
-SRCS = 2.cpp
+SRCS = main.cpp
 LIBS = -lglut -lGL -lGLU
 
 all: $(PROG)
